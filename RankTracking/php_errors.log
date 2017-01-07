@@ -1,0 +1,347 @@
+[03-Dec-2016 19:16:38 UTC] PHP Warning:  include(includes/headerVisibility.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project2/includes/header.php on line 4
+[03-Dec-2016 19:16:38 UTC] PHP Stack trace:
+[03-Dec-2016 19:16:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/includes/header.php:0
+[03-Dec-2016 19:16:38 UTC] PHP Warning:  include(): Failed opening 'includes/headerVisibility.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project2/includes/header.php on line 4
+[03-Dec-2016 19:16:38 UTC] PHP Stack trace:
+[03-Dec-2016 19:16:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/includes/header.php:0
+[03-Dec-2016 19:16:38 UTC] PHP Warning:  include(includes/getInfo.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project2/includes/header.php on line 5
+[03-Dec-2016 19:16:38 UTC] PHP Stack trace:
+[03-Dec-2016 19:16:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/includes/header.php:0
+[03-Dec-2016 19:16:38 UTC] PHP Warning:  include(): Failed opening 'includes/getInfo.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project2/includes/header.php on line 5
+[03-Dec-2016 19:16:38 UTC] PHP Stack trace:
+[03-Dec-2016 19:16:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/includes/header.php:0
+[03-Dec-2016 19:16:38 UTC] PHP Fatal error:  Call to undefined function loggedIn() in /home/ubuntu/workspace/project2/includes/header.php on line 17
+[03-Dec-2016 19:16:38 UTC] PHP Stack trace:
+[03-Dec-2016 19:16:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/includes/header.php:0
+[03-Dec-2016 19:27:06 UTC] PHP Warning:  include(getInfo.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project2/includes/header.php on line 5
+[03-Dec-2016 19:27:06 UTC] PHP Stack trace:
+[03-Dec-2016 19:27:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/includes/header.php:0
+[03-Dec-2016 19:27:06 UTC] PHP Warning:  include(): Failed opening 'getInfo.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project2/includes/header.php on line 5
+[03-Dec-2016 19:27:06 UTC] PHP Stack trace:
+[03-Dec-2016 19:27:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/includes/header.php:0
+[03-Dec-2016 19:27:30 UTC] PHP Warning:  include(getInfo.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project2/includes/header.php on line 5
+[03-Dec-2016 19:27:30 UTC] PHP Stack trace:
+[03-Dec-2016 19:27:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/includes/header.php:0
+[03-Dec-2016 19:27:30 UTC] PHP Warning:  include(): Failed opening 'getInfo.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project2/includes/header.php on line 5
+[03-Dec-2016 19:27:30 UTC] PHP Stack trace:
+[03-Dec-2016 19:27:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/includes/header.php:0
+[03-Dec-2016 19:29:13 UTC] PHP Warning:  include(getInfo.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project2/includes/footer.php on line 5
+[03-Dec-2016 19:29:13 UTC] PHP Stack trace:
+[03-Dec-2016 19:29:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/includes/footer.php:0
+[03-Dec-2016 19:29:13 UTC] PHP Warning:  include(): Failed opening 'getInfo.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project2/includes/footer.php on line 5
+[03-Dec-2016 19:29:13 UTC] PHP Stack trace:
+[03-Dec-2016 19:29:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/includes/footer.php:0
+[03-Dec-2016 19:31:03 UTC] PHP Warning:  include(../includes/dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project2/phpCalls/processLogin.php on line 4
+[03-Dec-2016 19:31:03 UTC] PHP Stack trace:
+[03-Dec-2016 19:31:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/processLogin.php:0
+[03-Dec-2016 19:31:03 UTC] PHP Warning:  include(): Failed opening '../includes/dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project2/phpCalls/processLogin.php on line 4
+[03-Dec-2016 19:31:03 UTC] PHP Stack trace:
+[03-Dec-2016 19:31:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/processLogin.php:0
+[03-Dec-2016 19:31:03 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/project2/phpCalls/processLogin.php on line 6
+[03-Dec-2016 19:31:03 UTC] PHP Stack trace:
+[03-Dec-2016 19:31:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/processLogin.php:0
+[03-Dec-2016 19:34:44 UTC] PHP Warning:  include(../includes/dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project2/phpCalls/addUser.php on line 6
+[03-Dec-2016 19:34:44 UTC] PHP Stack trace:
+[03-Dec-2016 19:34:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/addUser.php:0
+[03-Dec-2016 19:34:44 UTC] PHP Warning:  include(): Failed opening '../includes/dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project2/phpCalls/addUser.php on line 6
+[03-Dec-2016 19:34:44 UTC] PHP Stack trace:
+[03-Dec-2016 19:34:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/addUser.php:0
+[03-Dec-2016 19:34:44 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/project2/phpCalls/addUser.php on line 7
+[03-Dec-2016 19:34:44 UTC] PHP Stack trace:
+[03-Dec-2016 19:34:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/addUser.php:0
+[03-Dec-2016 19:35:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'summonerID' cannot be null' in /home/ubuntu/workspace/project2/phpCalls/addUser.php:36
+Stack trace:
+#0 /home/ubuntu/workspace/project2/phpCalls/addUser.php(36): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/project2/phpCalls/addUser.php(41): addUser()
+#2 {main}
+  thrown in /home/ubuntu/workspace/project2/phpCalls/addUser.php on line 36
+[03-Dec-2016 19:40:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'summonerID' cannot be null' in /home/ubuntu/workspace/project2/phpCalls/addUser.php:36
+Stack trace:
+#0 /home/ubuntu/workspace/project2/phpCalls/addUser.php(36): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/project2/phpCalls/addUser.php(43): addUser()
+#2 {main}
+  thrown in /home/ubuntu/workspace/project2/phpCalls/addUser.php on line 36
+[03-Dec-2016 21:14:47 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:14:47 UTC] PHP Stack trace:
+[03-Dec-2016 21:14:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:14:47 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:14:47 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 21:15:47 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:15:47 UTC] PHP Stack trace:
+[03-Dec-2016 21:15:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:15:47 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:15:47 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 21:15:50 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:15:50 UTC] PHP Stack trace:
+[03-Dec-2016 21:15:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:15:50 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:15:50 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 21:16:01 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/project2/phpCalls/logout.php on line 3
+[03-Dec-2016 21:16:01 UTC] PHP Stack trace:
+[03-Dec-2016 21:16:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:16:20 UTC] PHP Warning:  include(../includes/dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project2/phpCalls/logout.php on line 3
+[03-Dec-2016 21:16:20 UTC] PHP Stack trace:
+[03-Dec-2016 21:16:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:16:20 UTC] PHP Warning:  include(): Failed opening '../includes/dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project2/phpCalls/logout.php on line 3
+[03-Dec-2016 21:16:20 UTC] PHP Stack trace:
+[03-Dec-2016 21:16:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:16:20 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/project2/phpCalls/logout.php on line 4
+[03-Dec-2016 21:16:20 UTC] PHP Stack trace:
+[03-Dec-2016 21:16:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:16:27 UTC] PHP Fatal error:  Call to undefined function getRank() in /home/ubuntu/workspace/project2/phpCalls/logout.php on line 11
+[03-Dec-2016 21:16:27 UTC] PHP Stack trace:
+[03-Dec-2016 21:16:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:17:04 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:17:04 UTC] PHP Stack trace:
+[03-Dec-2016 21:17:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:17:04 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:17:04 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 21:19:15 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:19:15 UTC] PHP Stack trace:
+[03-Dec-2016 21:19:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:19:15 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:19:15 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 21:19:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:19:17 UTC] PHP Stack trace:
+[03-Dec-2016 21:19:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:19:17 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:19:17 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 21:19:19 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:19:19 UTC] PHP Stack trace:
+[03-Dec-2016 21:19:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:19:19 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:19:19 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 21:19:19 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:19:19 UTC] PHP Stack trace:
+[03-Dec-2016 21:19:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:19:19 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:19:19 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 21:19:20 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:19:20 UTC] PHP Stack trace:
+[03-Dec-2016 21:19:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:19:20 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:19:20 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 21:19:20 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:19:20 UTC] PHP Stack trace:
+[03-Dec-2016 21:19:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:19:20 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:19:20 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 21:20:50 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:20:50 UTC] PHP Stack trace:
+[03-Dec-2016 21:20:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:20:50 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:20:50 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 21:21:44 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:21:44 UTC] PHP Stack trace:
+[03-Dec-2016 21:21:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:21:44 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:21:47 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:21:47 UTC] PHP Stack trace:
+[03-Dec-2016 21:21:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:21:47 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:21:48 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:21:48 UTC] PHP Stack trace:
+[03-Dec-2016 21:21:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:21:48 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:21:48 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:21:48 UTC] PHP Stack trace:
+[03-Dec-2016 21:21:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:21:48 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:21:48 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:21:48 UTC] PHP Stack trace:
+[03-Dec-2016 21:21:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:21:48 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:21:49 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:21:49 UTC] PHP Stack trace:
+[03-Dec-2016 21:21:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:21:49 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:24:05 UTC] PHP Warning:  include(../includes/dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 3
+[03-Dec-2016 21:24:05 UTC] PHP Stack trace:
+[03-Dec-2016 21:24:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:24:05 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:24:05 UTC] PHP Warning:  include(): Failed opening '../includes/dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 3
+[03-Dec-2016 21:24:05 UTC] PHP Stack trace:
+[03-Dec-2016 21:24:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:24:05 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:24:05 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 4
+[03-Dec-2016 21:24:05 UTC] PHP Stack trace:
+[03-Dec-2016 21:24:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:24:05 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:24:16 UTC] PHP Fatal error:  Cannot redeclare printData() (previously declared in /home/ubuntu/workspace/project2/phpCalls/getInfo.php:46) in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 70
+[03-Dec-2016 21:24:16 UTC] PHP Stack trace:
+[03-Dec-2016 21:24:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:24:16 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:3
+[03-Dec-2016 21:25:16 UTC] PHP Warning:  include(../includes/dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 4
+[03-Dec-2016 21:25:16 UTC] PHP Stack trace:
+[03-Dec-2016 21:25:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:25:16 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:25:16 UTC] PHP Warning:  include(): Failed opening '../includes/dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 4
+[03-Dec-2016 21:25:16 UTC] PHP Stack trace:
+[03-Dec-2016 21:25:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:25:16 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:25:16 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 28
+[03-Dec-2016 21:25:16 UTC] PHP Stack trace:
+[03-Dec-2016 21:25:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:25:16 UTC] PHP   2. updateRank() /home/ubuntu/workspace/project2/phpCalls/logout.php:8
+[03-Dec-2016 21:25:28 UTC] PHP Fatal error:  Cannot redeclare getDatabaseConnection() (previously declared in /home/ubuntu/workspace/includes/dbConnection.php:3) in /home/ubuntu/workspace/includes/dbConnection.php on line 3
+[03-Dec-2016 21:25:28 UTC] PHP Stack trace:
+[03-Dec-2016 21:25:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:25:28 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:25:53 UTC] PHP Fatal error:  Cannot redeclare getDatabaseConnection() (previously declared in /home/ubuntu/workspace/includes/dbConnection.php:3) in /home/ubuntu/workspace/includes/dbConnection.php on line 3
+[03-Dec-2016 21:25:53 UTC] PHP Stack trace:
+[03-Dec-2016 21:25:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:25:53 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:26:44 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 25
+[03-Dec-2016 21:26:44 UTC] PHP Stack trace:
+[03-Dec-2016 21:26:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:26:44 UTC] PHP   2. updateRank() /home/ubuntu/workspace/project2/phpCalls/logout.php:8
+[03-Dec-2016 21:27:17 UTC] PHP Parse error:  syntax error, unexpected '$sqlRC' (T_VARIABLE) in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 6
+[03-Dec-2016 21:27:17 UTC] PHP Stack trace:
+[03-Dec-2016 21:27:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:27:33 UTC] PHP Fatal error:  Cannot redeclare getDatabaseConnection() (previously declared in /home/ubuntu/workspace/includes/dbConnection.php:3) in /home/ubuntu/workspace/includes/dbConnection.php on line 3
+[03-Dec-2016 21:27:33 UTC] PHP Stack trace:
+[03-Dec-2016 21:27:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:27:33 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:27:58 UTC] PHP Fatal error:  Cannot redeclare getDatabaseConnection() (previously declared in /home/ubuntu/workspace/includes/dbConnection.php:3) in /home/ubuntu/workspace/includes/dbConnection.php on line 3
+[03-Dec-2016 21:27:58 UTC] PHP Stack trace:
+[03-Dec-2016 21:27:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:27:58 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:27:58 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:4
+[03-Dec-2016 21:30:47 UTC] PHP Fatal error:  Cannot redeclare getDatabaseConnection() (previously declared in /home/ubuntu/workspace/includes/dbConnection.php:3) in /home/ubuntu/workspace/includes/dbConnection.php on line 3
+[03-Dec-2016 21:30:47 UTC] PHP Stack trace:
+[03-Dec-2016 21:30:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:30:47 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:30:47 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:6
+[03-Dec-2016 21:30:56 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 3
+[03-Dec-2016 21:30:56 UTC] PHP Stack trace:
+[03-Dec-2016 21:30:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:30:56 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:31:18 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 26
+[03-Dec-2016 21:31:18 UTC] PHP Stack trace:
+[03-Dec-2016 21:31:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:31:18 UTC] PHP   2. updateRank() /home/ubuntu/workspace/project2/phpCalls/logout.php:8
+[03-Dec-2016 21:31:41 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 26
+[03-Dec-2016 21:31:41 UTC] PHP Stack trace:
+[03-Dec-2016 21:31:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:31:41 UTC] PHP   2. updateRank() /home/ubuntu/workspace/project2/phpCalls/logout.php:8
+[03-Dec-2016 21:32:20 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 26
+[03-Dec-2016 21:32:20 UTC] PHP Stack trace:
+[03-Dec-2016 21:32:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:32:20 UTC] PHP   2. updateRank() /home/ubuntu/workspace/project2/phpCalls/logout.php:8
+[03-Dec-2016 21:32:53 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 26
+[03-Dec-2016 21:32:53 UTC] PHP Stack trace:
+[03-Dec-2016 21:32:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:32:53 UTC] PHP   2. updateRank() /home/ubuntu/workspace/project2/phpCalls/logout.php:8
+[03-Dec-2016 21:37:22 UTC] PHP Warning:  include(/project2/phpCalls/rankCheck.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project2/phpCalls/logout.php on line 2
+[03-Dec-2016 21:37:22 UTC] PHP Stack trace:
+[03-Dec-2016 21:37:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:37:22 UTC] PHP Warning:  include(): Failed opening '/project2/phpCalls/rankCheck.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project2/phpCalls/logout.php on line 2
+[03-Dec-2016 21:37:22 UTC] PHP Stack trace:
+[03-Dec-2016 21:37:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:37:22 UTC] PHP Fatal error:  Call to undefined function updateRank() in /home/ubuntu/workspace/project2/phpCalls/logout.php on line 8
+[03-Dec-2016 21:37:22 UTC] PHP Stack trace:
+[03-Dec-2016 21:37:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:38:44 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 26
+[03-Dec-2016 21:38:44 UTC] PHP Stack trace:
+[03-Dec-2016 21:38:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:38:44 UTC] PHP   2. updateRank() /home/ubuntu/workspace/project2/phpCalls/logout.php:8
+[03-Dec-2016 21:39:33 UTC] PHP Fatal error:  Cannot redeclare getDatabaseConnection() (previously declared in /home/ubuntu/workspace/includes/dbConnection.php:3) in /home/ubuntu/workspace/includes/dbConnection.php on line 3
+[03-Dec-2016 21:39:33 UTC] PHP Stack trace:
+[03-Dec-2016 21:39:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:39:33 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:40:10 UTC] PHP Fatal error:  Cannot redeclare getDatabaseConnection() (previously declared in /home/ubuntu/workspace/includes/dbConnection.php:3) in /home/ubuntu/workspace/includes/dbConnection.php on line 3
+[03-Dec-2016 21:40:10 UTC] PHP Stack trace:
+[03-Dec-2016 21:40:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:40:10 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:47:19 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:47:19 UTC] PHP Stack trace:
+[03-Dec-2016 21:47:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:47:19 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:47:19 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 21:48:08 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 26
+[03-Dec-2016 21:48:08 UTC] PHP Stack trace:
+[03-Dec-2016 21:48:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:48:08 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:48:08 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 21:48:35 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 3
+[03-Dec-2016 21:48:35 UTC] PHP Stack trace:
+[03-Dec-2016 21:48:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:48:35 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:48:35 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 21:49:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 27
+[03-Dec-2016 21:49:05 UTC] PHP Stack trace:
+[03-Dec-2016 21:49:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:49:05 UTC] PHP   2. updateRank() /home/ubuntu/workspace/project2/phpCalls/logout.php:8
+[03-Dec-2016 21:49:25 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 27
+[03-Dec-2016 21:49:25 UTC] PHP Stack trace:
+[03-Dec-2016 21:49:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:49:25 UTC] PHP   2. updateRank() /home/ubuntu/workspace/project2/phpCalls/logout.php:8
+[03-Dec-2016 21:50:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE username =' at line 2' in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:29
+Stack trace:
+#0 /home/ubuntu/workspace/project2/phpCalls/rankCheck.php(29): PDOStatement->execute(NULL)
+#1 /home/ubuntu/workspace/project2/phpCalls/logout.php(8): updateRank()
+#2 {main}
+  thrown in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 29
+[03-Dec-2016 21:51:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE username =' at line 2' in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:30
+Stack trace:
+#0 /home/ubuntu/workspace/project2/phpCalls/rankCheck.php(30): PDOStatement->execute(NULL)
+#1 /home/ubuntu/workspace/project2/phpCalls/logout.php(8): updateRank()
+#2 {main}
+  thrown in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 30
+[03-Dec-2016 21:53:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE username=' at line 2' in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:30
+Stack trace:
+#0 /home/ubuntu/workspace/project2/phpCalls/rankCheck.php(30): PDOStatement->execute(NULL)
+#1 /home/ubuntu/workspace/project2/phpCalls/logout.php(8): updateRank()
+#2 {main}
+  thrown in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 30
+[03-Dec-2016 21:53:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE username=jshallow' at line 2' in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:30
+Stack trace:
+#0 /home/ubuntu/workspace/project2/phpCalls/rankCheck.php(30): PDOStatement->execute(NULL)
+#1 /home/ubuntu/workspace/project2/phpCalls/logout.php(8): updateRank()
+#2 {main}
+  thrown in /home/ubuntu/workspace/project2/phpCalls/rankCheck.php on line 30
+[03-Dec-2016 21:59:48 UTC] PHP Warning:  include(../includes/dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 3
+[03-Dec-2016 21:59:48 UTC] PHP Stack trace:
+[03-Dec-2016 21:59:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:59:48 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:59:48 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 21:59:48 UTC] PHP Warning:  include(): Failed opening '../includes/dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 3
+[03-Dec-2016 21:59:48 UTC] PHP Stack trace:
+[03-Dec-2016 21:59:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:59:48 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:59:48 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 21:59:48 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 4
+[03-Dec-2016 21:59:48 UTC] PHP Stack trace:
+[03-Dec-2016 21:59:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 21:59:48 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 21:59:48 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 22:00:02 UTC] PHP Warning:  include(../includes/dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 3
+[03-Dec-2016 22:00:02 UTC] PHP Stack trace:
+[03-Dec-2016 22:00:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 22:00:02 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 22:00:02 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 22:00:02 UTC] PHP Warning:  include(): Failed opening '../includes/dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 3
+[03-Dec-2016 22:00:02 UTC] PHP Stack trace:
+[03-Dec-2016 22:00:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 22:00:02 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 22:00:02 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 22:00:02 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 4
+[03-Dec-2016 22:00:02 UTC] PHP Stack trace:
+[03-Dec-2016 22:00:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 22:00:02 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 22:00:02 UTC] PHP   3. include() /home/ubuntu/workspace/project2/phpCalls/rankCheck.php:3
+[03-Dec-2016 22:03:36 UTC] PHP Parse error:  syntax error, unexpected '"<br />"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/project2/phpCalls/getInfo.php on line 70
+[03-Dec-2016 22:03:36 UTC] PHP Stack trace:
+[03-Dec-2016 22:03:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/project2/phpCalls/logout.php:0
+[03-Dec-2016 22:03:36 UTC] PHP   2. include() /home/ubuntu/workspace/project2/phpCalls/logout.php:2
+[03-Dec-2016 22:10:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/project2/phpCalls/logout.php on line 14
+[05-Dec-2016 08:46:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2' in /home/ubuntu/workspace/project2/phpCalls/deleteUser.php:18
+Stack trace:
+#0 /home/ubuntu/workspace/project2/phpCalls/deleteUser.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/project2/phpCalls/deleteUser.php on line 18
+[05-Dec-2016 08:52:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2' in /home/ubuntu/workspace/project2/phpCalls/deleteUser.php:20
+Stack trace:
+#0 /home/ubuntu/workspace/project2/phpCalls/deleteUser.php(20): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/project2/phpCalls/deleteUser.php on line 20

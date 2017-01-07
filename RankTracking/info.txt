@@ -1,0 +1,9 @@
+get stats from 2 or more players 
+- Roles
+- Champions
+- Queue Type
+    - Win Rate
+- Summoners
+
+if admin, display admin dashboard
+if logged in, show user dashboard
